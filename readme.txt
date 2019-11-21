@@ -1,0 +1,1 @@
+To compile: gcc -o cic270 cic270.c -lglut -lGL -lGLU -lm
